@@ -1,9 +1,9 @@
 # SDKMAN archive for GraalVM
 
-last updated: last updated: Sat Oct  8 20:23:34 CEST 2022   
+last updated: last updated: Sat Oct  8 20:29:22 CEST 2022   
 author: Lukasz Ochmanski (github@ochmanski.de)  
   
-[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/tags/1.0.0)  
+[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/tags/1.0.1)  
 &nbsp;
   
 **Project details:**  
@@ -73,14 +73,14 @@ https://hub.docker.com/repository/docker/ochmanskide/sdkman.candidates.java.22.2
 
 ## 5. Image coordinates:
 ```  
-docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel:1.0.0
+docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel:1.0.1
 ```
 
 ## 6. Docker images:
 ```
 REPOSITORY                                                                         TAG       IMAGE ID       SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel    1.0.0     220d70caefc1   520MB
-alpine                                                                             3.15      c4fc93816858   5.59MB
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel    1.0.1     220d70caefc1   520MB
+docker.io/library/alpine                                                           3.15      c4fc93816858   5.59MB
 ```
 
 
