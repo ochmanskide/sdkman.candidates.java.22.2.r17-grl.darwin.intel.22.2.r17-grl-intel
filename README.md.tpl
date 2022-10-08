@@ -20,7 +20,7 @@ author: Lukasz Ochmanski (github@ochmanski.de)
 
 
 ## Supported tags and respective Dockerfile links
-* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/main/Dockerfile)
+* [1.0.0](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/1.0.0/Dockerfile), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/main/Dockerfile)
 
 ## Before you start
 
