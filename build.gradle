@@ -11,7 +11,7 @@ docker {
     def coordinates = "${host}/${destination}${project.group}.${project.name}"
     name "${coordinates}:${project.version}"
     tag "${host}", "${coordinates}:latest"
-    copySpec.from("$HOME/.sdkman/candidates/java/22.2.r17-grl").into("22.2.r17-grl")
+    copySpec.from("/Users/lukasz/.sdkman/candidates/java/22.2.r17-grl").into("22.2.r17-grl")
 }
 
 dockerRun {
