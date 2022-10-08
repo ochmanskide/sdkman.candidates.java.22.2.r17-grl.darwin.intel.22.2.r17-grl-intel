@@ -15,7 +15,7 @@ DOCKER_HUB_HOST=ochmanskide
 #IMAGE_TAG=$(gradle rootProjectVersionRaw -q)
 
 GROUP_ID='sdkman.candidates.java.22.2.r17-grl.darwin.intel'
-ARTIFACT_ID='22.2.r17-grl-intel'
+ARTIFACT_ID='22.2.r17-grl-darwin-intel'
 IMAGE_TAG=$(gradle printVersion -q)
 
 docker build -t "$DOCKER_HUB_HOST"/"$GROUP_ID"/"$ARTIFACT_ID":$IMAGE_TAG-slim . # --squash
