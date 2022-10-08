@@ -1,9 +1,9 @@
-# Debian-based Mandrel image optimized for building Quarkus projects
+# SDKMAN archive for GraalVM
 
-last updated: last updated: Sat Oct  8 20:13:28 CEST 2022   
+last updated: last updated: Sat Oct  8 20:23:34 CEST 2022   
 author: Lukasz Ochmanski (github@ochmanski.de)  
   
-[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/tags/0.0.3)  
+[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/tags/1.0.0)  
 &nbsp;
   
 **Project details:**  
@@ -18,6 +18,9 @@ author: Lukasz Ochmanski (github@ochmanski.de)
   
 &nbsp;
 
+
+## Supported tags and respective Dockerfile links
+* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/main/Dockerfile)
 
 ## Before you start
 
@@ -70,14 +73,14 @@ https://hub.docker.com/repository/docker/ochmanskide/sdkman.candidates.java.22.2
 
 ## 5. Image coordinates:
 ```  
-docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel:0.0.3
+docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel:1.0.0
 ```
 
 ## 6. Docker images:
 ```
-REPOSITORY                                                                                        TAG                    SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   0.0.3                  1.18GB
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   latest                 1.18GB
+REPOSITORY                                                                         TAG       IMAGE ID       SIZE
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel    1.0.0     220d70caefc1   520MB
+alpine                                                                             3.15      c4fc93816858   5.59MB
 ```
 
 
