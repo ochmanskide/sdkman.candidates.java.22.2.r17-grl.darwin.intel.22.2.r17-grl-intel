@@ -80,7 +80,7 @@ docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r1
 ```
 REPOSITORY                                                                         TAG       IMAGE ID       SIZE
 ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel    ###CI_COMMIT_TAG###     220d70caefc1   520MB
-alpine                                                                             3.15      c4fc93816858   5.59MB
+docker.io/library/alpine                                                           3.15      c4fc93816858   5.59MB
 ```
 
 
