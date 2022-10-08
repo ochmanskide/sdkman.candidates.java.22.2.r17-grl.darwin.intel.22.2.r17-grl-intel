@@ -1,9 +1,9 @@
 # Debian-based Mandrel image optimized for building Quarkus projects
 
-last updated: last updated: Sat Oct  8 20:06:38 CEST 2022   
+last updated: last updated: Sat Oct  8 20:13:28 CEST 2022   
 author: Lukasz Ochmanski (github@ochmanski.de)  
   
-[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/tags/0.0.2)  
+[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/tags/0.0.3)  
 &nbsp;
   
 **Project details:**  
@@ -70,13 +70,13 @@ https://hub.docker.com/repository/docker/ochmanskide/sdkman.candidates.java.22.2
 
 ## 5. Image coordinates:
 ```  
-docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel:0.0.2
+docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel:0.0.3
 ```
 
 ## 6. Docker images:
 ```
 REPOSITORY                                                                                        TAG                    SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   0.0.2                  1.18GB
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   0.0.3                  1.18GB
 ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   latest                 1.18GB
 ```
 
