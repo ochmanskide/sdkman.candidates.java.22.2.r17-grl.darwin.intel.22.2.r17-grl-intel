@@ -1,4 +1,4 @@
-# Debian-based Mandrel image optimized for building Quarkus projects
+# SDKMAN archive for GraalVM
 
 last updated: last updated: ###TIMESTAMP###   
 author: Lukasz Ochmanski (github@ochmanski.de)  
@@ -18,6 +18,9 @@ author: Lukasz Ochmanski (github@ochmanski.de)
   
 &nbsp;
 
+
+## Supported tags and respective Dockerfile links
+* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel/blob/main/Dockerfile)
 
 ## Before you start
 
@@ -75,9 +78,9 @@ docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r1
 
 ## 6. Docker images:
 ```
-REPOSITORY                                                                                        TAG                    SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   ###CI_COMMIT_TAG###                  1.18GB
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel   latest                 1.18GB
+REPOSITORY                                                                         TAG       IMAGE ID       SIZE
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.darwin.intel.22.2.r17-grl-intel    ###CI_COMMIT_TAG###     220d70caefc1   520MB
+alpine                                                                             3.15      c4fc93816858   5.59MB
 ```
 
 
